@@ -9,4 +9,5 @@ These items will be placed on the roadmap after being priorizited.
 - [Core] Audio Processing Performance Optimizations
 - [Studio] Stage Dashboard
 - [Core] Particle System Nodes
-- 
+- [Stage] TPM2 Bridge Driver
+- [Stage] TPM2.Net Bridge Driver
