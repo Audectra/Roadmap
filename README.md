@@ -4,11 +4,12 @@ The items on the roadmap reflect my current or future development focus. The roa
 ## 2022
 ### Q4
 
+- [Core] Capture from Audio Input Devices
+- [Core] Preparations for Linux Support
 - [Stage] TPM2 Bridge Driver
 - [Stage] TPM2.Net Bridge Driver
 - [Studio] TPM2 Bridge Configuration
 - [Studio] TPM2.Net Bridge Configuration
-- [Core] Preparations for Linux Support
 
 ## 2023
 ### Q1
