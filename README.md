@@ -24,3 +24,4 @@ These items will be placed on the roadmap after being priorizited.
 
 - [Core] Particle System Nodes
 - [Stage] Philips Hue Bridge Driver
+- [Stage] Manage Scenes via Stage CLI
