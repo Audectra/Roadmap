@@ -18,10 +18,10 @@ The items on the roadmap reflect my current or future development focus. The roa
 - [Stage] Stage for Linux (ARM)
 - [Studio] Stage Dashboard
 - [Core] Audio Processing Performance Optimizations
+- [Core] Particle System Nodes
 
 ## Backlog
 These items will be placed on the roadmap after being priorizited. 
 
-- [Core] Particle System Nodes
 - [Stage] Philips Hue Bridge Driver
 - [Stage] Manage Scenes via Stage CLI
