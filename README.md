@@ -21,7 +21,7 @@ The items on the roadmap reflect my current or future development focus. The roa
 - [SDK] Particle System
 - [Nodes] Particle System Nodes
 
-### Q3
+### Q2
 - [Core] Performance Optimizations. 
 - [Studio] Performance Monitor on Stage Dashboard
 - [Core] Versioning for Extension Assemblies
