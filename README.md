@@ -28,6 +28,17 @@ The items on the roadmap reflect my current or future development focus. The roa
 - [Core] Timeline Modifier
 - [Studio] UI for Timeline Modifier
 
+### Q3
+- [SDK] Effect Render Nodes
+- [SDK] Node Tags
+- [Stage] Several internal Improvements
+- [Stage] Window Bridge Driver
+- [Studio] Window Bridge Configuration
+- [Studio] Node Library Dialog
+- [Studio] Basic Stage Settings via Dashboard
+- [Studio] Bridge Configuration via Dashboard
+- [Nodes] Initial Set of Effect Nodes
+
 ## Backlog
 These items will be placed on the roadmap after being priorizited. 
 
