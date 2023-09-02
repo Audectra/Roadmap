@@ -29,7 +29,8 @@ The items on the roadmap reflect my current or future development focus. The roa
 - [Studio] UI for Timeline Modifier
 
 ### Q3
-- [SDK] Effect Render Nodes
+- [SDK] Pixel Render Nodes (0D)
+- [SDK] Strip Render Nodes (1D)
 - [SDK] Node Tags
 - [SDK] Support for SKColor as Node Setting.
 - [Stage] Several internal Improvements
@@ -39,7 +40,7 @@ The items on the roadmap reflect my current or future development focus. The roa
 - [Studio] Basic Stage Settings via Dashboard
 - [Studio] Bridge Configuration via Dashboard
 - [Studio] Support for SKColor in Properties Panel.
-- [Nodes] Initial Set of Effect Nodes
+- [Nodes] Initial Set of Strip Render Nodes
 
 ## Backlog
 These items will be placed on the roadmap after being priorizited. 
