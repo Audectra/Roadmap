@@ -32,6 +32,7 @@ The items on the roadmap reflect my current or future development focus. The roa
 - [SDK] Pixel Render Nodes (0D)
 - [SDK] Strip Render Nodes (1D)
 - [SDK] Node Tags
+- [SDK] Target Canvas Type (Pixel, Strip, Panel)
 - [SDK] Support for SKColor as Node Setting.
 - [Stage] Several internal Improvements
 - [Stage] Window Bridge Driver
