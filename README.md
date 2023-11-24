@@ -43,6 +43,10 @@ The items on the roadmap reflect my current or future development focus. The roa
 - [Studio] Support for SKColor in Properties Panel.
 - [Nodes] Initial Set of Strip Render Nodes
 
+### Q4
+- [Nodes] Plasma Render Nodes
+- [Stage] Web UI for Stage Configuration
+
 ## Backlog
 These items will be placed on the roadmap after being priorizited. 
 
