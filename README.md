@@ -46,6 +46,23 @@ The items on the roadmap reflect my current or future development focus. The roa
 ### Q4
 - [Nodes] Plasma Render Nodes
 - [Stage] Web UI for Stage Configuration
+- [Stage] Support for Scaled Patches
+
+## 2024
+### Q1 & Q2
+This release will have many breaking changes. 
+
+- [Core] Improved Migrations for Scenes
+- [Core] Layers for Visualization States
+- [Core] Edit Mode for Scenes
+- [Core] Node Networks for Layer Settings
+- [Studio] Visualization State Editor with Layer Arrangement
+- [Studio] Layer Library Dialog
+- [Studio] Ruler for Timeline Editor
+- [Studio] Manual Positioning in Timeline Editor
+- [Studio] Render Preview in Timeline Editor
+- [SDK] Layer SDK
+- [SDK] Cleanup on Node SDK
 
 ## Backlog
 These items will be placed on the roadmap after being priorizited. 
