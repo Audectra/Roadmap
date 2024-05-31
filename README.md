@@ -56,6 +56,8 @@ This release will have many breaking changes.
 - [Core] Layers for Visualization States
 - [Core] Edit Mode for Scenes
 - [Core] Node Networks for Layer Settings
+- [Core] Beats as Scene Timeline Unit
+- [Core] Synchornized Scene Timeline with live beat-detection
 - [Studio] Visualization State Editor with Layer Arrangement
 - [Studio] Layer Library Dialog
 - [Studio] Ruler for Timeline Editor
