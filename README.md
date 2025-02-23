@@ -66,6 +66,19 @@ This release will have many breaking changes.
 - [SDK] Layer SDK
 - [SDK] Cleanup on Node SDK
 
+## 2025
+### Q1
+- [Core] Various performance improvements in audio processing pipeline.
+- [Core] Increased beat detection range, accuracy and stability.
+- [Core] Added best-effort bar detection.
+- [Core] Synchronized scene timelines to detected beats and bars.
+- [SDK] Bumped to .Net 9. 
+
+### Q2
+- [Stage] Manual gain control for audio input devices with live feedback. 
+- [Studio][Stage] Performance graph for signal and render core usages.
+- [Studio][Stage] Performance graph for beat and bar detection. 
+
 ## Backlog
 These items will be placed on the roadmap after being priorizited. 
 
