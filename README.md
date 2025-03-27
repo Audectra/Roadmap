@@ -75,6 +75,7 @@ This release will have many breaking changes.
 - [SDK] Bumped to .Net 9. 
 
 ### Q2
+- [Stage] Secured stage UI with HTTPS (using self-signed or custom certificate).
 - [Stage] Manual gain control for audio input devices with live feedback. 
 - [Studio][Stage] Performance graph for signal and render core usages.
 - [Studio][Stage] Performance graph for beat and bar detection. 
